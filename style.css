@@ -28,9 +28,6 @@ nav a:hover {
   text-decoration: underline;
 }
 
-nav a:active {
-  color: #831122; /* couleur après visite */
-}
 
 h1, h2 {
   color: #003344;
