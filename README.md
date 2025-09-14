@@ -2,13 +2,7 @@
 
 This repository contains the source code of my academic webpage, hosted with **GitHub Pages**.
 
-🔗 Website: [https://your-username.github.io/](https://your-username.github.io/)
-
----
-
-## 📂 Repository structure
-
-
+🔗 Website: [https://ekroland.github.io/etse.github.io/](https://ekroland.github.io/etse.github.io/)
 
 ---
 
